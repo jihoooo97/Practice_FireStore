@@ -14,7 +14,7 @@ struct Practice_FireStoreApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentTabView()
         }
     }
 }
